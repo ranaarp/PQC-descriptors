@@ -1,0 +1,16 @@
+,accuracy,circuit_cost,classical_optimizer,data_dimension,dataset_name,entanglement,eval_time,feature_map,fm_reps,test_size,train_size,validation_size,var_reps,variational_form
+0,0.64,81,COBYLA,3,4-9,full,61.69522499999999,Z-reps=2-ent=full,2,20,40,50,1,custom-old-reps=1-ent=full
+1,0.66,84,COBYLA,3,4-9,full,71.087401,Z-reps=2-ent=full,2,20,40,50,1,custom-new-reps=1-ent=full
+2,0.81,48,COBYLA,3,4-9,full,39.92013399999999,Z-reps=2-ent=full,2,20,40,50,1,RealAmplitudes-reps=1-ent=full
+3,0.69,48,COBYLA,3,4-9,full,151.27736299999995,Z-reps=2-ent=full,2,20,100,50,1,RealAmplitudes-reps=1-ent=full
+4,0.64,81,COBYLA,3,4-9,full,134.15822800000007,Z-reps=2-ent=full,2,20,100,50,1,custom-old-reps=1-ent=full
+5,0.64,84,COBYLA,3,4-9,full,189.709708,Z-reps=2-ent=full,2,20,100,50,1,custom-new-reps=1-ent=full
+6,0.75,174,COBYLA,3,4-9,full,186.14673500000004,ZZ-reps=2-ent=full,2,20,100,50,1,RealAmplitudes-reps=1-ent=full
+7,0.65,207,COBYLA,3,4-9,full,277.16567399999985,ZZ-reps=2-ent=full,2,20,100,50,1,custom-old-reps=1-ent=full
+8,0.58,210,COBYLA,3,4-9,full,349.75506199999984,ZZ-reps=2-ent=full,2,20,100,50,1,custom-new-reps=1-ent=full
+9,0.8,81,COBYLA,3,4-9,full,223.02488100000005,Z-reps=2-ent=full,2,1000,100,50,2,RealAmplitudes-reps=2-ent=full
+10,0.71,150,COBYLA,3,4-9,full,385.62006700000006,Z-reps=2-ent=full,2,1000,100,50,2,custom-old-reps=2-ent=full
+11,0.77,156,COBYLA,3,4-9,full,744.5928739999997,Z-reps=2-ent=full,2,1000,100,50,2,custom-new-reps=2-ent=full
+12,0.75,207,COBYLA,3,4-9,full,551.4335639999998,ZZ-reps=2-ent=full,2,1000,100,50,2,RealAmplitudes-reps=2-ent=full
+13,0.75,276,COBYLA,3,4-9,full,943.3100330000003,ZZ-reps=2-ent=full,2,1000,100,50,2,custom-old-reps=2-ent=full
+14,0.74,282,COBYLA,3,4-9,full,1672.0740729999998,ZZ-reps=2-ent=full,2,1000,100,50,2,custom-new-reps=2-ent=full
